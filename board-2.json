@@ -1,0 +1,20 @@
+[
+    {
+        "board": [
+            {
+                "names": [
+                    "bus=ahb,qmi-chip-id=1,qmi-board-id=255"
+                ],
+                "data": "bdwlan.elf"
+            }
+        ],
+        "regdb": [
+            {
+                "names": [
+                    "bus=ahb,qmi-chip-id=1,qmi-board-id=255"
+                ],
+                "data": "regdb.bin"
+            }
+        ]
+    }
+]
