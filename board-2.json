@@ -3,7 +3,7 @@
         "board": [
             {
                 "names": [
-                    "bus=ahb,qmi-chip-id=1,qmi-board-id=255"
+                    "bus=ahb,qmi-chip-id=1,qmi-board-id=255,variant=Nothing_Phone_3a"
                 ],
                 "data": "bdwlan.elf"
             }
@@ -11,7 +11,7 @@
         "regdb": [
             {
                 "names": [
-                    "bus=ahb,qmi-chip-id=1,qmi-board-id=255"
+                    "bus=ahb,qmi-chip-id=1,qmi-board-id=255,variant=Nothing_Phone_3a"
                 ],
                 "data": "regdb.bin"
             }
