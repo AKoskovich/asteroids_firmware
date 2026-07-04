@@ -123,6 +123,7 @@ mcfg_sw/generic/Nothing/EU/Finland_Telia/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Nothing/EU/Sweden_Telenor/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Nothing/EU/Sweden_Vimla/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Nothing/EU/France_Free/Commercial/mcfg_sw.mbn
+mcfg_sw/generic/Nothing/EU/France_Reunion/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Nothing/EU/Austria_A1/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Nothing/EU/Slovenia_Telekom/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Nothing/EU/Poland_Play/Commercial/mcfg_sw.mbn
@@ -160,6 +161,11 @@ mcfg_sw/generic/Nothing/EU/Spain_Digi/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Nothing/EU/Latvia_Bite/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Nothing/EU/Ireland_H3G/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Nothing/EU/Italy_Fastweb/Commercial/mcfg_sw.mbn
+mcfg_sw/generic/Nothing/EU/BH_Telecom/Commercial/mcfg_sw.mbn
+mcfg_sw/generic/Nothing/EU/UK_Lebara/Commercial/mcfg_sw.mbn
+mcfg_sw/generic/Nothing/EU/France_Lebara/Commercial/mcfg_sw.mbn
+mcfg_sw/generic/Nothing/EU/NL_Lebara/Commercial/mcfg_sw.mbn
+mcfg_sw/generic/Nothing/EU/DE_Lebara/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Nothing/ASIA/Israel_Pelephone/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Nothing/ASIA/Israel_Partner/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Nothing/ASIA/Singapore_SIMBA/Commercial/mcfg_sw.mbn
@@ -181,6 +187,8 @@ mcfg_sw/generic/Nothing/ASIA/SaudiArabia_Mobily/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Nothing/ASIA/SaudiArabia_Virgin/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Nothing/ASIA/Hongkong_CMHK/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Nothing/ASIA/Kuwait_Zain/Commercial/mcfg_sw.mbn
+mcfg_sw/generic/Nothing/ASIA/PK_TELENOR/Commercial/mcfg_sw.mbn
+mcfg_sw/generic/Nothing/ASIA/PK_ZONG/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Nothing/ASIA/Qatar_Ooredoo/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Nothing/ASIA/Qatar_VDF/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Nothing/ASIA/Kuwait_Ooredoo/Commercial/mcfg_sw.mbn
@@ -200,6 +208,8 @@ mcfg_sw/generic/Nothing/NA/USA_Cricket/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Nothing/AUNZ/NewZealand_Spark/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Nothing/AUNZ/NewZealand_VDF/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Nothing/AUNZ/NewZealand_2Degree/Commercial/mcfg_sw.mbn
+mcfg_sw/generic/Nothing/SA/Chile_Claro/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Nothing/SA/Mexico_ATT/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Nothing/SA/Chile_Entel/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Nothing/AF/VDF_Egypt/Commercial/mcfg_sw.mbn
+mcfg_sw/generic/Nothing/AF/EG_Etisalat/Commercial/mcfg_sw.mbn
